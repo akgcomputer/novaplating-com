@@ -8,9 +8,9 @@ SITE_DESCRIPTION = "Meraklı İçerikleri Keşfet"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "novaplating-com"
+database_name = "db-novaplating-com"
 database_id = "3167f8bc-3e3b-4ace-9078-4c455ae3e61b"
 
 [[r2_buckets]]
 binding = "MEDIA_BUCKET"
-bucket_name = "novaplating-com"
+bucket_name = "r2-novaplating-com"
